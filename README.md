@@ -124,7 +124,7 @@ WEEK_1_replikasi  →  week2_Metode_Pembanding  →  Week2_Metode_Pembanding_E5 
 
 ---
 
-## Catatan Jujur dan Keterbatasan
+## Catatan Keterbatasan
 
 - **Minggu 1:** fitur AU rata-rata, embedding audio, dan posterior untuk fusi memakai berkas rilisan penulis. Jadi angka 86,70 % memverifikasi tahap fusi dan evaluasi, bukan fine-tuning dari awal.
 - **Angka paper optimistis:** di kode penulis, checkpoint audio dan early-stopping bi-LSTM dipilih memakai fold uji. Cabang visual pada fusi E5 memakai posterior paper tersebut, sehingga terjadi asimetri seleksi terhadap audio E5.
@@ -141,6 +141,7 @@ WEEK_1_replikasi  →  week2_Metode_Pembanding  →  Week2_Metode_Pembanding_E5 
 1. Luna-Jiménez, C., Kleinlein, R., Griol, D., Callejas, Z., Montero, J. M., & Fernández-Martínez, F. (2022). A Proposal for Multimodal Emotion Recognition Using Aural Transformers and Action Units on RAVDESS Dataset. *Applied Sciences*, 12(1), 327.
 2. Livingstone, S. R., & Russo, F. A. (2018). The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS). *PLOS ONE*, 13(5), e0196391.
 3. Repositori penulis: https://github.com/cristinalunaj/MMEmotionRecognition (MIT License)
+4. Trained Model: https://drive.upm.es/s/AYULcdl44m2Tj8C
 
 ## Lisensi
 
