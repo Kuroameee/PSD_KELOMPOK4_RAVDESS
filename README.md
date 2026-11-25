@@ -3,9 +3,6 @@
 Proyek 4 minggu mata kuliah **Pengolahan Sinyal Digital (PSD)**.
 Repositori ini berisi notebook Minggu 1–3: replikasi baseline dari paper, metode pembanding, serta analisis hasil dan uji signifikansi.
 
-> **Penulis:** _Nama kamu_ · _NIM_ · Informatika, Universitas Sebelas Maret
-> **Dosen pengampu:** _Nama dosen_
-
 ---
 
 ## Ringkasan
